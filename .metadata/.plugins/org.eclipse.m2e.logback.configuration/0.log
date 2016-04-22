@@ -1,0 +1,271 @@
+2016-04-14 11:28:34,774 [Worker-0] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.jar
+2016-04-14 11:28:37,707 [Worker-0] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: PSBK:Modul5:1.0.0-SNAPSHOT @ D:\133040148\Modul5\pom.xml.
+2016-04-14 11:28:37,707 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: PSBK:Modul5:1.0.0-SNAPSHOT @ D:\133040148\Modul5\pom.xml.
+2016-04-14 11:28:47,753 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom
+2016-04-14 11:29:07,831 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom
+2016-04-14 11:29:18,938 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/servlet/javax.servlet-api/3.1.0/javax.servlet-api-3.1.0.pom
+2016-04-14 11:29:28,954 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/org/primefaces/primefaces/4.0/primefaces-4.0.pom
+2016-04-14 11:29:49,007 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/primefaces/primefaces/4.0/primefaces-4.0.pom
+2016-04-14 11:29:59,029 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/primefaces/primefaces/4.0/primefaces-4.0.pom
+2016-04-14 11:30:09,060 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/com/sun/faces/jsf-impl/2.1.20/jsf-impl-2.1.20.pom
+2016-04-14 11:30:29,076 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/com/sun/faces/jsf-impl/2.1.20/jsf-impl-2.1.20.pom
+2016-04-14 11:30:41,110 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/faces/jsf-impl/2.1.20/jsf-impl-2.1.20.pom
+2016-04-14 11:30:51,160 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/com/sun/faces/jsf-api/2.1.20/jsf-api-2.1.20.pom
+2016-04-14 11:31:11,206 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/com/sun/faces/jsf-api/2.1.20/jsf-api-2.1.20.pom
+2016-04-14 11:31:21,237 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/com/sun/faces/jsf-api/2.1.20/jsf-api-2.1.20.pom
+2016-04-14 11:31:31,299 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.pom
+2016-04-14 11:31:51,329 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.pom
+2016-04-14 11:32:01,360 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/javax/validation/validation-api/1.0.0.GA/validation-api-1.0.0.GA.pom
+2016-04-14 11:32:11,438 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/org/hibernate/hibernate-validator/4.0.0.GA/hibernate-validator-4.0.0.GA.pom
+2016-04-14 11:32:31,468 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/hibernate/hibernate-validator/4.0.0.GA/hibernate-validator-4.0.0.GA.pom
+2016-04-14 11:32:41,499 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-validator/4.0.0.GA/hibernate-validator-4.0.0.GA.pom
+2016-04-14 11:32:51,546 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/mysql/mysql-connector-java/5.1.30/mysql-connector-java-5.1.30.pom
+2016-04-14 11:33:11,592 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/mysql/mysql-connector-java/5.1.30/mysql-connector-java-5.1.30.pom
+2016-04-14 11:33:21,622 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/mysql/mysql-connector-java/5.1.30/mysql-connector-java-5.1.30.pom
+2016-04-14 11:33:31,653 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/org/hibernate/hibernate-entitymanager/4.2.0.Final/hibernate-entitymanager-4.2.0.Final.pom
+2016-04-14 11:33:51,684 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/hibernate/hibernate-entitymanager/4.2.0.Final/hibernate-entitymanager-4.2.0.Final.pom
+2016-04-14 11:34:01,714 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-entitymanager/4.2.0.Final/hibernate-entitymanager-4.2.0.Final.pom
+2016-04-14 11:34:11,745 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/hsqldb/hsqldb/1.8.0.10/hsqldb-1.8.0.10.pom
+2016-04-14 11:34:31,776 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/hsqldb/hsqldb/1.8.0.10/hsqldb-1.8.0.10.pom
+2016-04-14 11:34:41,791 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/hsqldb/hsqldb/1.8.0.10/hsqldb-1.8.0.10.pom
+2016-04-14 11:34:51,822 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.pom
+2016-04-14 11:35:11,868 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.pom
+2016-04-14 11:35:24,285 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/javax/persistence/hibernate-jpa-2.0-api/1.0.0.Final/hibernate-jpa-2.0-api-1.0.0.Final.pom
+2016-04-14 11:35:34,316 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/org/hibernate/hibernate-ehcache/4.2.0.Final/hibernate-ehcache-4.2.0.Final.pom
+2016-04-14 11:35:54,347 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/hibernate/hibernate-ehcache/4.2.0.Final/hibernate-ehcache-4.2.0.Final.pom
+2016-04-14 11:36:04,377 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/hibernate/hibernate-ehcache/4.2.0.Final/hibernate-ehcache-4.2.0.Final.pom
+2016-04-14 11:36:14,424 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE.pom
+2016-04-14 11:36:34,454 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE.pom
+2016-04-14 11:36:44,485 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-context/4.0.3.RELEASE/spring-context-4.0.3.RELEASE.pom
+2016-04-14 11:36:54,532 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/org/springframework/spring-webmvc/4.0.3.RELEASE/spring-webmvc-4.0.3.RELEASE.pom
+2016-04-14 11:37:14,562 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/springframework/spring-webmvc/4.0.3.RELEASE/spring-webmvc-4.0.3.RELEASE.pom
+2016-04-14 11:37:24,577 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-webmvc/4.0.3.RELEASE/spring-webmvc-4.0.3.RELEASE.pom
+2016-04-14 11:37:34,624 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/org/springframework/spring-orm/4.0.3.RELEASE/spring-orm-4.0.3.RELEASE.pom
+2016-04-14 11:37:54,670 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/springframework/spring-orm/4.0.3.RELEASE/spring-orm-4.0.3.RELEASE.pom
+2016-04-14 11:38:05,449 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-orm/4.0.3.RELEASE/spring-orm-4.0.3.RELEASE.pom
+2016-04-14 11:38:15,496 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/org/springframework/spring-test/4.0.3.RELEASE/spring-test-4.0.3.RELEASE.pom
+2016-04-14 11:38:35,526 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/springframework/spring-test/4.0.3.RELEASE/spring-test-4.0.3.RELEASE.pom
+2016-04-14 11:38:45,573 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-test/4.0.3.RELEASE/spring-test-4.0.3.RELEASE.pom
+2016-04-14 11:38:55,635 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/commons-dbcp/commons-dbcp/20030825.184428/commons-dbcp-20030825.184428.pom
+2016-04-14 11:39:15,665 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/commons-dbcp/commons-dbcp/20030825.184428/commons-dbcp-20030825.184428.pom
+2016-04-14 11:39:25,680 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-dbcp/commons-dbcp/20030825.184428/commons-dbcp-20030825.184428.pom
+2016-04-14 11:39:35,727 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/commons-pool/commons-pool/20030825.183949/commons-pool-20030825.183949.pom
+2016-04-14 11:39:55,757 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/commons-pool/commons-pool/20030825.183949/commons-pool-20030825.183949.pom
+2016-04-14 11:40:07,769 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-pool/commons-pool/20030825.183949/commons-pool-20030825.183949.pom
+2016-04-14 11:40:17,816 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.pom
+2016-04-14 11:40:37,862 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.pom
+2016-04-14 11:40:47,986 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/commons/commons-lang3/3.1/commons-lang3-3.1.pom
+2016-04-14 11:40:58,017 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom
+2016-04-14 11:41:18,063 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom
+2016-04-14 11:41:28,081 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/commons-collections/commons-collections/3.2.1/commons-collections-3.2.1.pom
+2016-04-14 11:41:38,127 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/taglibs/standard/1.1.2/standard-1.1.2.pom
+2016-04-14 11:41:58,158 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/taglibs/standard/1.1.2/standard-1.1.2.pom
+2016-04-14 11:42:08,189 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/taglibs/standard/1.1.2/standard-1.1.2.pom
+2016-04-14 11:42:18,219 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/jstl/jstl/1.2/jstl-1.2.pom
+2016-04-14 11:42:38,265 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/jstl/jstl/1.2/jstl-1.2.pom
+2016-04-14 11:42:48,281 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/jstl/jstl/1.2/jstl-1.2.pom
+2016-04-14 11:42:58,358 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/org/slf4j/slf4j-api/1.5.10/slf4j-api-1.5.10.pom
+2016-04-14 11:43:18,467 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/slf4j/slf4j-api/1.5.10/slf4j-api-1.5.10.pom
+2016-04-14 11:43:28,482 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-api/1.5.10/slf4j-api-1.5.10.pom
+2016-04-14 11:43:38,513 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/org/slf4j/jcl-over-slf4j/1.5.10/jcl-over-slf4j-1.5.10.pom
+2016-04-14 11:43:58,528 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/slf4j/jcl-over-slf4j/1.5.10/jcl-over-slf4j-1.5.10.pom
+2016-04-14 11:44:08,559 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/jcl-over-slf4j/1.5.10/jcl-over-slf4j-1.5.10.pom
+2016-04-14 11:44:18,590 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/org/slf4j/slf4j-log4j12/1.5.10/slf4j-log4j12-1.5.10.pom
+2016-04-14 11:44:38,636 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/org/slf4j/slf4j-log4j12/1.5.10/slf4j-log4j12-1.5.10.pom
+2016-04-14 11:44:48,651 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/slf4j/slf4j-log4j12/1.5.10/slf4j-log4j12-1.5.10.pom
+2016-04-14 11:44:58,713 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repository.jboss.org/nexus/content/groups/public-jboss/log4j/log4j/1.2.15/log4j-1.2.15.pom
+2016-04-14 11:45:18,744 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://maven.springframework.org/milestone/log4j/log4j/1.2.15/log4j-1.2.15.pom
+2016-04-14 11:45:28,759 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/log4j/log4j/1.2.15/log4j-1.2.15.pom
+2016-04-14 11:45:31,489 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-clean-plugin:2.5: Plugin org.apache.maven.plugins:maven-clean-plugin:2.5 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-clean-plugin:jar:2.5
+2016-04-14 11:45:41,551 [Worker-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-war-plugin/2.2/maven-war-plugin-2.2.pom
+2016-04-14 11:45:41,551 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-war-plugin:2.2: Plugin org.apache.maven.plugins:maven-war-plugin:2.2 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-war-plugin:jar:2.2
+2016-04-14 11:45:41,551 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:2.12.4: Plugin org.apache.maven.plugins:maven-surefire-plugin:2.12.4 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-surefire-plugin:jar:2.12.4
+2016-04-14 11:45:41,582 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-install-plugin:2.4: Plugin org.apache.maven.plugins:maven-install-plugin:2.4 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-install-plugin:jar:2.4
+2016-04-14 11:45:41,582 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-deploy-plugin:2.7: Plugin org.apache.maven.plugins:maven-deploy-plugin:2.7 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-deploy-plugin:jar:2.7
+2016-04-14 11:45:41,582 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-site-plugin:3.3: Plugin org.apache.maven.plugins:maven-site-plugin:3.3 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-site-plugin:jar:3.3
+2016-04-14 11:45:41,582 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-antrun-plugin:1.3: Plugin org.apache.maven.plugins:maven-antrun-plugin:1.3 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-antrun-plugin:jar:1.3
+2016-04-14 11:45:41,598 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-assembly-plugin:2.2-beta-5: Plugin org.apache.maven.plugins:maven-assembly-plugin:2.2-beta-5 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-assembly-plugin:jar:2.2-beta-5
+2016-04-14 11:45:41,598 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-dependency-plugin:2.8: Plugin org.apache.maven.plugins:maven-dependency-plugin:2.8 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-dependency-plugin:jar:2.8
+2016-04-14 11:45:41,598 [Worker-1] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-release-plugin:2.3.2: Plugin org.apache.maven.plugins:maven-release-plugin:2.3.2 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-release-plugin:jar:2.3.2
+2016-04-14 11:45:42,549 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: PSBK:Modul5:1.0.0-SNAPSHOT @ D:\133040148\Modul5\pom.xml.
+2016-04-14 11:45:42,971 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: PSBK:Modul5:1.0.0-SNAPSHOT @ D:\133040148\Modul5\pom.xml.
+2016-04-14 11:45:43,189 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-clean-plugin:2.5: Plugin org.apache.maven.plugins:maven-clean-plugin:2.5 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-clean-plugin:jar:2.5
+2016-04-14 11:45:43,189 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-war-plugin:2.2: Plugin org.apache.maven.plugins:maven-war-plugin:2.2 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-war-plugin:jar:2.2
+2016-04-14 11:45:43,205 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-surefire-plugin:2.12.4: Plugin org.apache.maven.plugins:maven-surefire-plugin:2.12.4 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-surefire-plugin:jar:2.12.4
+2016-04-14 11:45:43,205 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-install-plugin:2.4: Plugin org.apache.maven.plugins:maven-install-plugin:2.4 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-install-plugin:jar:2.4
+2016-04-14 11:45:43,205 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-deploy-plugin:2.7: Plugin org.apache.maven.plugins:maven-deploy-plugin:2.7 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-deploy-plugin:jar:2.7
+2016-04-14 11:45:43,205 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-site-plugin:3.3: Plugin org.apache.maven.plugins:maven-site-plugin:3.3 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-site-plugin:jar:3.3
+2016-04-14 11:45:43,205 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-antrun-plugin:1.3: Plugin org.apache.maven.plugins:maven-antrun-plugin:1.3 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-antrun-plugin:jar:1.3
+2016-04-14 11:45:43,220 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-assembly-plugin:2.2-beta-5: Plugin org.apache.maven.plugins:maven-assembly-plugin:2.2-beta-5 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-assembly-plugin:jar:2.2-beta-5
+2016-04-14 11:45:43,220 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-dependency-plugin:2.8: Plugin org.apache.maven.plugins:maven-dependency-plugin:2.8 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-dependency-plugin:jar:2.8
+2016-04-14 11:45:43,220 [Worker-7] WARN  o.e.m.c.i.embedder.EclipseLogger - Failed to retrieve plugin descriptor for org.apache.maven.plugins:maven-release-plugin:2.3.2: Plugin org.apache.maven.plugins:maven-release-plugin:2.3.2 or one of its dependencies could not be resolved: Failed to read artifact descriptor for org.apache.maven.plugins:maven-release-plugin:jar:2.3.2
+2016-04-22 15:46:21,038 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 15:46:21,116 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2016-04-22 15:46:21,147 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 15:46:21,147 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2016-04-22 15:48:14,356 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/maven-metadata.xml
+2016-04-22 15:48:16,213 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/maven-metadata.xml
+2016-04-22 15:48:16,525 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2016-04-22 15:48:17,258 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2016-04-22 15:49:19,206 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2016-04-22 15:49:19,783 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.pom
+2016-04-22 15:49:19,908 [pool-2-thread-1] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded file:///C:/Users/SB604-06/.m2/repository/org/apache/maven/archetypes/maven-archetype-quickstart/1.1/maven-archetype-quickstart-1.1.jar
+2016-04-22 15:49:19,939 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\133040148\ProjectMaven\pom.xml
+2016-04-22 15:49:20,875 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2016-04-22 15:49:22,451 [Worker-8] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/2.4/maven-jar-plugin-2.4.jar
+2016-04-22 15:49:23,777 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.unpas:ProjectMaven:0.0.1-SNAPSHOT @ D:\133040148\ProjectMaven\pom.xml.
+2016-04-22 15:49:24,026 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProjectMaven/src/main/java
+2016-04-22 15:49:24,026 [Worker-8] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProjectMaven/src/test/java
+2016-04-22 15:49:24,182 [Worker-8] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 4 sec
+2016-04-22 15:49:24,619 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.unpas:ProjectMaven:0.0.1-SNAPSHOT @ D:\133040148\ProjectMaven\pom.xml.
+2016-04-22 15:49:24,900 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 15:49:24,900 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectMaven\src\main\resources
+2016-04-22 15:49:24,900 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 15:49:24,900 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectMaven\src\test\resources
+2016-04-22 15:49:25,805 [Worker-1] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.unpas:ProjectMaven:0.0.1-SNAPSHOT @ D:\133040148\ProjectMaven\pom.xml.
+2016-04-22 15:49:26,023 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 15:49:26,023 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectMaven\src\main\resources
+2016-04-22 15:49:26,023 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 15:49:26,023 [Worker-1] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectMaven\src\test\resources
+2016-04-22 15:57:18,100 [Worker-11] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.unpas:ProjectMaven:0.0.1-SNAPSHOT @ D:\133040148\ProjectMaven\pom.xml.
+2016-04-22 15:57:18,672 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.2.5.RELEASE/spring-jdbc-4.2.5.RELEASE.pom
+2016-04-22 15:57:19,216 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.2.5.RELEASE/spring-jdbc-4.2.5.RELEASE.pom
+2016-04-22 15:57:19,649 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.2.5.RELEASE/spring-tx-4.2.5.RELEASE.pom
+2016-04-22 15:57:20,227 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.2.5.RELEASE/spring-tx-4.2.5.RELEASE.pom
+2016-04-22 15:57:20,510 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.3/joda-time-2.9.3.pom
+2016-04-22 15:57:21,423 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.3/joda-time-2.9.3.pom
+2016-04-22 15:57:21,781 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.2.5.RELEASE/spring-jdbc-4.2.5.RELEASE.jar
+2016-04-22 15:57:25,351 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-jdbc/4.2.5.RELEASE/spring-jdbc-4.2.5.RELEASE.jar
+2016-04-22 15:57:25,683 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.2.5.RELEASE/spring-tx-4.2.5.RELEASE.jar
+2016-04-22 15:57:28,239 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/org/springframework/spring-tx/4.2.5.RELEASE/spring-tx-4.2.5.RELEASE.jar
+2016-04-22 15:57:28,487 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading http://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.3/joda-time-2.9.3.jar
+2016-04-22 15:57:34,967 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-22 15:57:37,388 [Worker-11] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded http://repo.maven.apache.org/maven2/joda-time/joda-time/2.9.3/joda-time-2.9.3.jar
+2016-04-22 15:57:38,011 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 15:57:38,011 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectMaven\src\main\resources
+2016-04-22 15:57:38,014 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 15:57:38,014 [Worker-11] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectMaven\src\test\resources
+2016-04-22 15:57:38,990 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate - D:\133040148\ProjectMaven
+2016-04-22 15:57:38,991 [Worker-8] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B 
+2016-04-22 15:57:39,200 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 15:57:39,201 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectMaven\src\main\resources
+2016-04-22 15:57:39,201 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 15:57:39,202 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectMaven\src\test\resources
+2016-04-22 15:57:59,585 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-04-22 16:00:41,447 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' D:\133040148\ProjectJunit\pom.xml
+2016-04-22 16:00:41,509 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.unpas:ProjectJunit:0.0.1-SNAPSHOT @ D:\133040148\ProjectJunit\pom.xml.
+2016-04-22 16:00:41,727 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProjectJunit/src/main/java
+2016-04-22 16:00:41,727 [Worker-16] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /ProjectJunit/src/test/java
+2016-04-22 16:00:41,774 [Worker-16] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 0 sec
+2016-04-22 16:00:42,102 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.unpas:ProjectJunit:0.0.1-SNAPSHOT @ D:\133040148\ProjectJunit\pom.xml.
+2016-04-22 16:00:42,273 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:00:42,273 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:00:42,273 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:00:42,273 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:00:42,866 [Worker-12] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.unpas:ProjectJunit:0.0.1-SNAPSHOT @ D:\133040148\ProjectJunit\pom.xml.
+2016-04-22 16:00:43,303 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:00:43,303 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:00:43,303 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:00:43,303 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:01:43,675 [Worker-13] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.unpas:ProjectJunit:0.0.1-SNAPSHOT @ D:\133040148\ProjectJunit\pom.xml.
+2016-04-22 16:01:43,722 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:01:43,722 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:01:43,722 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:01:43,722 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:01:44,861 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:01:44,861 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:01:44,861 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:01:44,861 [Worker-8] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:03:53,483 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:03:53,483 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:03:53,483 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:03:53,483 [Worker-12] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:06:31,870 [Worker-16] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: org.unpas:ProjectJunit:0.0.1-SNAPSHOT @ D:\133040148\ProjectJunit\pom.xml.
+2016-04-22 16:06:31,917 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:06:31,932 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:06:31,932 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:06:31,932 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:06:33,243 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:06:33,243 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:06:33,243 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:06:33,243 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:09:27,557 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:09:27,557 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:09:27,557 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:09:27,557 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:12:17,395 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:12:17,395 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:12:17,395 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:12:17,395 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:13:28,110 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:13:28,110 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:13:28,110 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:13:28,110 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:13:32,306 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:13:32,306 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:13:32,322 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:13:32,322 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:16:52,283 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:16:52,283 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:16:52,283 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:16:52,283 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:17:54,294 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:17:54,294 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:17:54,294 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:17:54,294 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:20:40,266 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:20:40,266 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:20:40,268 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:20:40,268 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:21:24,753 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:21:24,753 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:21:24,753 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:21:24,753 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:28:43,572 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:28:43,572 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:28:43,572 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:28:43,572 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:30:15,826 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:30:15,826 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:30:15,826 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:30:15,826 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:31:03,987 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:31:03,987 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:31:03,987 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:31:03,987 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:31:31,833 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:31:31,833 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:31:31,833 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:31:31,833 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:31:59,760 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:31:59,760 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:31:59,760 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:31:59,760 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:33:42,455 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:33:42,455 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:33:42,455 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:33:42,455 [Worker-13] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:34:18,776 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:34:18,776 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:34:18,776 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:34:18,776 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:34:56,575 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:34:56,575 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:34:56,606 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:34:56,606 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:35:37,353 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:35:37,353 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:35:37,353 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:35:37,353 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:36:29,832 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:36:29,832 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:36:29,847 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:36:29,847 [Worker-16] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:37:17,402 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:37:17,402 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:37:17,418 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:37:17,418 [Worker-15] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources
+2016-04-22 16:37:20,757 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:37:20,757 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\main\resources
+2016-04-22 16:37:20,757 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-04-22 16:37:20,757 [Worker-17] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory D:\133040148\ProjectJunit\src\test\resources

@@ -1,0 +1,33 @@
+package org.unpas.ProjectJunit;
+
+import org.junit.After;
+import org.junit.Before;
+import org.junit.Test;
+
+
+public class JunitTest{
+	@Before
+	public void sebelumPengetesan(){
+		
+	}
+	
+	@Test
+	public void pengujian1(){
+		
+	}
+	
+	@Test
+	public void pengujian2(){
+		
+	}
+	
+	@Test
+	public void pengujian3(){
+		
+	}
+	
+	@After
+	public void setelahPengetesan(){
+		
+	}
+}

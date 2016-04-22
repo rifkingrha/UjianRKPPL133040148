@@ -1,0 +1,32 @@
+package org.unpas.ProjectJunit;
+
+public class Orang {
+	private String nama;
+	private String jenisKelamin;
+	private int isiTas[];
+	
+	public String getNama() {
+		return nama;
+	}
+	
+	public void setNama(String nama) {
+		this.nama = nama;
+	}
+	
+	public String getJenisKelamin() {
+		return jenisKelamin;
+	}
+	
+	public void setJenisKelamin(String jenisKelamin) {
+		this.jenisKelamin = jenisKelamin;
+	}
+	
+	public int[] getUmur() {
+		return isiTas;
+	}
+	
+	public void setUmur(int[] umur) {
+		this.isiTas = umur;
+	}
+	
+}
