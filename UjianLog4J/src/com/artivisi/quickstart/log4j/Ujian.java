@@ -16,6 +16,8 @@ static Logger logger = Logger.getLogger(Ujian.class);
 		logger.warn("Ini adalah fatal message : " + param);
 		logger.error("Ini adalah warn message : " + param);
 		logger.fatal("Ini adalah error message : " + param);
+		
+		System.out.println("perubahan");
 
 	}
 }
